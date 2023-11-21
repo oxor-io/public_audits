@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="640" height="320" src="./oxorio.png">
+  <img width="640" height="320" src="./oxorio.jpg">
 </p>
 
 <p align="center">
