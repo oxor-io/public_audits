@@ -16,6 +16,7 @@ We are OXORIO — a team of hackathon geeks that believes in the power of decent
 
 | Project | Audit Name | PDF Report | Web-Report | Date (YYYY-MM-DD) |
 |---|---|---|---|---|
+| [Lido](https://lido.fi/) | Lido EasyTrack | [📄](./Lido/Lido_Easytrack.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-Ni0CDaFX7Bi16v7UGo_ "Read web report") | 2023-10-18 |
 | [Lido](https://lido.fi/) | Lido v2 on-chain | [📄](./Lido/Lido_v2_on_chain.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-N_rKiHMrKQv7ILXUoML "Read web report") | 2023-05-10 |
 | [Lido](https://lido.fi/) | Lido v2 off-chain | [📄](./Lido/Lido_v2_off_chain.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-NaMQzF2U-4vp24DOJ7R "Read web report") | 2023-05-10 |
 | [Fathom](https://fathom.fi/) | DAO Reaudit | [📄](./Fathom/DAO_Reaudit.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-Nakz-u930WdgP82CZu2 "Read web report") | 2023-05-10 |
