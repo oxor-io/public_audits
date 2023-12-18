@@ -7,7 +7,7 @@
 </p>
 
 # Oxorio Public Audit Portfolio
-We are OXORIO — a team of hackathon geeks that believes in the power of decentralization. We specialize in providing unparalleled security and privacy solutions for blockchain-based projects: **high-quality smart contract audits** and **vulnerability analysis** and penetration testing.
+OXORIO is a blockchain security firm that specializes in smart contracts, zk solutions, and security consulting. With a decade of blockchain development and five years in smart contract auditing, our expert team delivers premier security services for projects at any stage of maturity and development.
 
 [📑 More details](./oxorio.pdf)
 
