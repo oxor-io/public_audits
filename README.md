@@ -17,6 +17,7 @@ OXORIO is a blockchain security firm that specializes in smart contracts, zk sol
 | Project | Audit Name | PDF Report | Web-Report | Date (YYYY-MM-DD) |
 |---|---|---|---|---|
 | [Zunami](https://www.zunami.io/) | Zunami Protocol v2 | [📄](./Zunami/Zunami_Protocol_v2.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-NpyX0pQGzgLJqd-gSc2 "Read web report") | 2024-02-06 |
+| [Fathom](https://fathom.fi/) | Stablecoin | [📄](./Fathom/Stablecoin.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-Ntzvo0Tum3zOymAJXQ7 "Read web report") | 2024-01-19 |
 | [Lido](https://lido.fi/) | Lido EasyTrack | [📄](./Lido/Lido_Easytrack.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-Ni0CDaFX7Bi16v7UGo_ "Read web report") | 2023-10-18 |
 | [Lido](https://lido.fi/) | Lido v2 on-chain | [📄](./Lido/Lido_v2_on_chain.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-N_rKiHMrKQv7ILXUoML "Read web report") | 2023-05-10 |
 | [Lido](https://lido.fi/) | Lido v2 off-chain | [📄](./Lido/Lido_v2_off_chain.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-NaMQzF2U-4vp24DOJ7R "Read web report") | 2023-05-10 |
