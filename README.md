@@ -16,7 +16,8 @@ OXORIO is a blockchain security firm that specializes in smart contracts, zk sol
 
 | Project | Audit Name | PDF Report | Web-Report | Date (YYYY-MM-DD) |
 |---|---|---|---|---|
-| [Zunami](https://www.zunami.io/) | Zunami Protocol v2 Reaudit | [📄](https://raw.githubusercontent.com/oxor-io/public_audits/master/Zunami/Zunami%20Protocol%20v2%20Reaudit%20Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-NvXHALIT8IO_MRdPQNF "Read web report") | 2024-02-06 |
+| [Zunami](https://www.zunami.io/) | Zunami Protocol v2 Reaudit | [📄](https://raw.githubusercontent.com/oxor-io/public_audits/master/Zunami/Zunami%20Protocol%20v2%20Reaudit%20Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-NvXHALIT8IO_MRdPQNF "Read web report") | 2024-04-15 |
+| [Rho](https://www.rho.trading/) | Rho Protocol | [📄](https://raw.githubusercontent.com/oxor-io/public_audits/master/Rho/Rho%20Protocol%20Audit%20Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-NsF0vIwYyzQJhrgL2nf "Read web report") | 2024-04-10 |
 | [Fathom](https://fathom.fi/) | Vaults | [📄](https://raw.githubusercontent.com/oxor-io/public_audits/master/Fathom/Fathom%20Vaults%20Audit%20Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-NtunDi5rPyQnKpT6XRb "Read web report") | 2024-03-28 |
 | [Zunami](https://www.zunami.io/) | Zunami Protocol v2 | [📄](https://raw.githubusercontent.com/oxor-io/public_audits/master/Zunami/Zunami%20Protocol%20v2%20Audit%20Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-NpyX0pQGzgLJqd-gSc2 "Read web report") | 2024-02-06 |
 | [Fathom](https://fathom.fi/) | Stablecoin | [📄](https://raw.githubusercontent.com/oxor-io/public_audits/master/Fathom/Fathom%20Stablecoin%20Audit%20Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-Ntzvo0Tum3zOymAJXQ7 "Read web report") | 2024-01-19 |
