@@ -16,6 +16,7 @@ OXORIO is a blockchain security firm that specializes in smart contracts, zk sol
 
 | Project | Audit Name | PDF Report | Web-Report | Date (YYYY-MM-DD) |
 |---|---|---|---|---|
+| [Lido](https://lido.fi/) | Lido wstETH on BNB Deployment Verification | [📄](https://oxor-io.github.io/public_audits/Lido/Lido-wstETH-on-BNB-Deployment-Verification-Report.pdf "Read verification report") | - | 2024-08-02 |
 | [Mansa](https://www.mansafinance.co/) | Mansa Tranches | [📄](https://oxor-io.github.io/public_audits/Mansa/Mansa%20Tranches%20Audit%20Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-NzCdnl6nCdYV10H36ym "Read web report") | 2024-06-05 |
 | [Privacy Pools](https://privacypools.com/) | Privacy Pools v1 | [📄](https://oxor-io.github.io/public_audits/Privacy%20Pools/Privacy%20Pools%20v1%20Audit%20Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-NwoBcrT4pbMRmTwaCyf "Read web report") | 2024-05-24 |
 | [Zunami](https://www.zunami.io/) | Zunami Protocol v2 Reaudit 2 | [📄](https://oxor-io.github.io/public_audits/Zunami/Zunami%20Protocol%20v2%20Reaudit%202%20Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-Nwds4RobEthWN4FUR3L "Read web report") | 2024-04-30 |
