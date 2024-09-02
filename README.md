@@ -16,8 +16,8 @@ OXORIO is a blockchain security firm that specializes in smart contracts, zk sol
 
 | Project | Audit Name | PDF Report | Web-Report | Date (YYYY-MM-DD) |
 |---|---|---|---|---|
-| [WisdomTree](https://www.wisdomtree.com/) | WisdomTree Digital ERC20 Revocable Compliance Token Standard | [📄](https://oxor-io.github.io/public_audits/WisdomTree/WisdomTree-ERC20RevocableComplianceStandard-Report-Annex "Read audit report") | - | 2024-08-30 |
-| [WisdomTree](https://www.wisdomtree.com/) | WisdomTree Digital ERC20 Revocable Token Standard | [📄](https://oxor-io.github.io/public_audits/WisdomTree/WisdomTree-ERC20RevocableStandard-Report-Annex "Read audit report") | - | 2024-08-30 |
+| [WisdomTree](https://www.wisdomtree.com/) | WisdomTree Digital ERC20 Revocable Compliance Token Standard | [📄](https://oxor-io.github.io/public_audits/WisdomTree/WisdomTree-ERC20RevocableComplianceStandard-Report-Annex.pdf "Read audit report") | - | 2024-08-30 |
+| [WisdomTree](https://www.wisdomtree.com/) | WisdomTree Digital ERC20 Revocable Token Standard | [📄](https://oxor-io.github.io/public_audits/WisdomTree/WisdomTree-ERC20RevocableStandard-Report-Annex.pdf "Read audit report") | - | 2024-08-30 |
 | [WisdomTree](https://www.wisdomtree.com/) | WisdomTree Digital ERC20 Controlled Token Standard | [📄](https://oxor-io.github.io/public_audits/WisdomTree/WisdomTree-ERC20ControlledStandard-Report-Annex.pdf "Read audit report") | - | 2024-08-30 |
 | [WisdomTree](https://www.wisdomtree.com/) | WisdomTree Digital ERC20 Basic Token Standard | [📄](https://oxor-io.github.io/public_audits/WisdomTree/WisdomTree-ERC20BasicStandard-Report-Annex.pdf "Read audit report") | - | 2024-08-30 |
 | [WisdomTree](https://www.wisdomtree.com/) | WisdomTree Digital Token Standards V3 Framework | [📄](https://oxor-io.github.io/public_audits/WisdomTree/WisdomTree-TokenStandards-Report.pdf "Read audit report") | - | 2024-08-23 |
