@@ -16,6 +16,7 @@ OXORIO is a blockchain security firm that specializes in smart contracts, zk sol
 
 | Project | Audit Name | PDF Report | Web-Report | Date (YYYY-MM-DD) |
 |---|---|---|---|---|
+| [Aave](https://aave.com/) | Aave Liquid eModes | [📄](https://oxor-io.github.io/public_audits/Aave/Aave-Liquid-eModes-Audit-Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-O6WGXtlLACDvSBt4FqI "Read web report") | 2024-09-12 |
 | [WisdomTree](https://www.wisdomtree.com/) | WisdomTree Digital ERC20 Revocable Compliance Token Standard | [📄](https://oxor-io.github.io/public_audits/WisdomTree/WisdomTree-ERC20RevocableComplianceStandard-Report-Annex.pdf "Read audit report") | - | 2024-08-30 |
 | [WisdomTree](https://www.wisdomtree.com/) | WisdomTree Digital ERC20 Revocable Token Standard | [📄](https://oxor-io.github.io/public_audits/WisdomTree/WisdomTree-ERC20RevocableStandard-Report-Annex.pdf "Read audit report") | - | 2024-08-30 |
 | [WisdomTree](https://www.wisdomtree.com/) | WisdomTree Digital ERC20 Controlled Token Standard | [📄](https://oxor-io.github.io/public_audits/WisdomTree/WisdomTree-ERC20ControlledStandard-Report-Annex.pdf "Read audit report") | - | 2024-08-30 |
