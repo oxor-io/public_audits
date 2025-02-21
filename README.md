@@ -16,6 +16,8 @@ OXORIO is a blockchain security firm that specializes in smart contracts, zk sol
 
 | Project | Audit Name | PDF Report | Web-Report | Date (YYYY-MM-DD) |
 |---|---|---|---|---|
+| [Kalp Network](https://www.kalp.network/) | Kalp Network GINI Vesting | [📄](https://oxor-io.github.io/public_audits/Kalp%20Network/Kalp-GINI-Vesting-Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-OHqc5NEhcqr8ntBT2fY "Read web report") | 2025-01-30 |
+| [Kalp Network](https://www.kalp.network/) | Kalp Network GINI Accounting | [📄](https://oxor-io.github.io/public_audits/Kalp%20Network/Kalp-GINI-Accounting-Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-OHNHmGM462jdFQ4ZrdY "Read web report") | 2025-01-30 |
 | [Clash of Coins](https://clashofcoins.com/) | Clash of Coins Claim Contracts | [📄](https://oxor-io.github.io/public_audits/Clash%20of%20Coins/Clash-of-Coins-Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-OExMigEvyKs1s_mD1cZ "Read web report") | 2024-12-13 |
 | [Launchnodes](https://www.launchnodes.com/) | Launchnodes Lido Impact Staking | [📄](https://oxor-io.github.io/public_audits/Launchnodes/Launchnodes-Lido-Impact-Staking-Audit-Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-OE-PZCpBPGN6R6blvjK "Read web report") | 2024-12-13 |
 | [Aave](https://aave.com/) | Aave Liquid eModes | [📄](https://oxor-io.github.io/public_audits/Aave/Aave-Liquid-eModes-Audit-Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-O6WGXtlLACDvSBt4FqI "Read web report") | 2024-09-12 |
