@@ -16,6 +16,7 @@ OXORIO is a blockchain security firm that specializes in smart contracts, zk sol
 
 | Project | Audit Name | PDF Report | Web-Report | Date (YYYY-MM-DD) |
 |---|---|---|---|---|
+| [InceptionLRT](https://www.inceptionlrt.com/) | InceptionLRT Symbiotic Vault | [📄](https://oxor-io.github.io/public_audits/InceptionLRT/InceptionLRT-Audit-Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-OIPaLjoSHVw25rYgJCS "Read web report") | 2025-03-07 |
 | [Kalp Network](https://www.kalp.network/) | Kalp Network GINI Vesting | [📄](https://oxor-io.github.io/public_audits/Kalp%20Network/Kalp-GINI-Vesting-Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-OHqc5NEhcqr8ntBT2fY "Read web report") | 2025-01-30 |
 | [Kalp Network](https://www.kalp.network/) | Kalp Network GINI Accounting | [📄](https://oxor-io.github.io/public_audits/Kalp%20Network/Kalp-GINI-Accounting-Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-OHNHmGM462jdFQ4ZrdY "Read web report") | 2025-01-30 |
 | [Clash of Coins](https://clashofcoins.com/) | Clash of Coins Claim Contracts | [📄](https://oxor-io.github.io/public_audits/Clash%20of%20Coins/Clash-of-Coins-Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-OExMigEvyKs1s_mD1cZ "Read web report") | 2024-12-13 |
