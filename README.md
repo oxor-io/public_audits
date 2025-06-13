@@ -16,6 +16,7 @@ OXORIO is a blockchain security firm that specializes in smart contracts, zk sol
 
 | Project | Audit Name | PDF Report | Web-Report | Date (YYYY-MM-DD) |
 |---|---|---|---|---|
+| [Privacy Pools](https://privacypools.com/) | Privacy Pools Precommitment PR | [📄](https://oxor-io.github.io/public_audits/Privacy%20Pools/Privacy%20Pools%20Precommitment%20PR%20Audit%20Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-OQhtWGt42M8dkFurOk0 "Read web report") | 2025-05-20 |
 | [Altitude](https://www.altitude.fi/) | Altitude v2 | [📄](https://oxor-io.github.io/public_audits/Altitude/Altitude-v2-Audit-Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-OQmJ27gWTLafwDo27ht "Read web report") | 2025-05-09 |
 | [Privacy Pools](https://privacypools.com/) | Privacy Pools Core Contracts | [📄](https://oxor-io.github.io/public_audits/Privacy%20Pools/Privacy%20Pools%20Core%20Audit%20Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-OLYfcMM9ZqBdtv6V176 "Read web report") | 2025-03-18 |
 | [InceptionLRT](https://www.inceptionlrt.com/) | InceptionLRT Symbiotic Vault | [📄](https://oxor-io.github.io/public_audits/InceptionLRT/InceptionLRT-Audit-Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-OIPaLjoSHVw25rYgJCS "Read web report") | 2025-03-07 |
