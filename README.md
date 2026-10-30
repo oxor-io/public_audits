@@ -16,6 +16,7 @@ OXORIO is a blockchain security firm that specializes in smart contracts, zk sol
 
 | Project | Audit Name | PDF Report | Web-Report | Date (YYYY-MM-DD) |
 |---|---|---|---|---|
+| [UTEXO Protocol](https://utexo.com) | UTEXO Bridge Burn Signer | [📄](https://oxor-io.github.io/public_audits/UTEXO/UTEXO-Bridge-Burn-Signer-Audit-Report-23-10-26.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-P3trg829TN03Ygf8MvK "Read web report") | 2026-10-23 |
 | [Triumph Games](https://www.triumphgames.io/) | Triumph Token | [📄](https://oxor-io.github.io/public_audits/Triumph%20Games/Triumph-Token-Report-11-02-26.pdf "Read audit report") | - | 2026-02-11 |
 | [Lido](https://lido.fi/) | Lido Earn | [📄](https://oxor-io.github.io/public_audits/Lido/Lido-Earn-Audit-Report.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-OgCeKdCFpclhPuv1XuS "Read web report") | 2026-01-15 |
 | [LTV](https://ltv.finance/) | LTV Smart Contracts | [📄](https://oxor-io.github.io/public_audits/LTV/LTV-Audit-Report-04-11-25.pdf "Read audit report") | [📑](https://audits.oxor.io/reports/-OczrvOlkkrxTuZZK4Ae "Read web report") | 2025-11-04 |
